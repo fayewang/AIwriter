@@ -1,0 +1,2 @@
+# AIwriter
+openmind aiwriter homework
